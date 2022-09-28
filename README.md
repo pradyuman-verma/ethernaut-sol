@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+The [Ethernaut](https://ethernaut.openzeppelin.com/) is a Web3/Solidity-based CTF played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Here are the writeups of my solutions for all the levels.
